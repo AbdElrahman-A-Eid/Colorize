@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653695088 source:e:\#iti\ai track\3. opp using c++\projects\colorize\colorize.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
